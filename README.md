@@ -100,3 +100,7 @@ With a stronger performance boost, **VGG19** leads as the first official challen
 
 
 <span style="color:#ff5733;"> Adonay Demewez Gebremedhin </span>
+Join the battle and may the best net win! 🚀  
+
+## License  
+This project is licensed under the Apache License 2.0 - see the [LICENSE](./LICENSE) file for details.
