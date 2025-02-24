@@ -1,42 +1,102 @@
-# Battle of Nets
-Battle of Nets is an experimental deep-learning project where cutting-edge models face off against eachother. We will analyze how they process information—visually and structurally(The fun way!).
+# <span style="color:#ff5733;">🔥 Battle of Nets 🔥</span>
 
-Join me on this self-learning journey to uncover algorithms and fun!  
+**Battle of Nets** is an experimental deep-learning project where models compete in real-world tasks. We evaluate how they handle different challenges under different constraints.
 
----
-
-## 🏆 Current Challenges  
-
-| Name               | Scientific Term    | Start       | End      | Difficulty | Model Constraints    | Current Leader |
-|-------------------|-------------------|------------|----------|------------|----------------------|----------------|
-| ***Speedrun Mode***  | **Quantization**  | Feb 1, 2025 | Ongoing  | 🔥🔥🔥      | Low-bit precision    | TBD            |
-| ***Puzzle Solver***  | **Occlusion Test**| TBD        | TBD      | 🔥🔥        | Distorted inputs     | TBD            |
-| ***Adversarial Battle*** | **Robustness Test** | TBD   | TBD      | 🔥🔥🔥🔥    | Adversarial attacks  | TBD            |
+Follow along as we push these architectures to their limits.
 
 ---
 
-## 🎮 Leaderboard  
+## 🏆 <span style="color:#3498db;">Current Challenges</span>  
 
-| Model Name                    | Score   | Number of Challenges | Unique Ability      |
-|--------------------------------|---------|----------------------|---------------------|
-| ***VGG the Veteran*** - *VGG19*       | TBD     | 1                    | Just simple        |
-| ***ResNet the Agile*** - *ResNet20*    | TBD     | 1                    | Residual Power     |
-| ***[Your Model Here]***        | TBD     | ?                    | ?                   |
+<table>
+<tr>
+<th>Name</th>
+<th>Scientific Term</th>
+<th>Start</th>
+<th>End</th>
+<th>Difficulty</th>
+<th>Model Constraints</th>
+<th>Current Leader</th>
+</tr>
+<tr>
+<td><b>Speedrun Mode</b></td>
+<td>Quantization</td>
+<td>January 1, 2025</td>
+<td>Ongoing</td>
+<td style="color:#e74c3c;">🔥🔥🔥</td>
+<td>Low-bit precision</td>
+<td>VGG19</td>
+</tr>
+<tr>
+<td><b>Puzzle Solver</b></td>
+<td>Occlusion Test</td>
+<td>TBD</td>
+<td>TBD</td>
+<td style="color:#e67e22;">🔥🔥</td>
+<td>Distorted inputs</td>
+<td>TBD</td>
+</tr>
+<tr>
+<td><b>Adversarial Battle</b></td>
+<td>Robustness Test</td>
+<td>TBD</td>
+<td>TBD</td>
+<td style="color:#c0392b;">🔥🔥🔥🔥</td>
+<td>Adversarial attacks</td>
+<td>TBD</td>
+</tr>
+</table>
 
 ---
 
-## 🕹️ How to Participate  
-1. **Submit Your Model**: Fork the repo and add your own model.  
-2. **Compete in Challenges**: Choose a challenge and let your model face off!  
-3. **Track Performance**: See how your model stacks up against others.  
+## 🔍 <span style="color:#2ecc71;">Latest Results</span>  
+
+### **VGG19 vs ResNet20: Quantization Showdown**                    
+***January 25,2025***
+- **VGG19** retained **99.46%** of its original accuracy while achieving a **2.168x speedup**.  
+- **ResNet20** held **99.74%** accuracy but only improved speed by **1.2768x**.  
+
+With a stronger performance boost, **VGG19** leads as the first official challenge winner in *Battle of Nets*.
 
 ---
 
-## 🔥 Features  
-✅ **Themed Challenges**: Speed, robustness, and problem-solving.  
-✅ **Gamified Leaderboard**: Power-ups, difficulty levels, and rankings.  
-✅ **Fun Visuals**: GIFs and interactive graphs coming soon!  
+## 📊 <span style="color:#f1c40f;">Leaderboard</span>  
+
+<table>
+<tr>
+<th>Model Name</th>
+<th>Score</th>
+<th>Number of Challenges</th>
+<th>Unique Ability</th>
+</tr>
+<tr>
+<td><b>VGG the Veteran</b> - <i>VGG19</i></td>
+<td>10</td>
+<td>1</td>
+<td>Just simple</td>
+</tr>
+<tr>
+<td><b>ResNet the Agile</b> - <i>ResNet20</i></td>
+<td>0</td>
+<td>1</td>
+<td>Residual Power</td>
+</tr>
+<tr>
+<td><b>[Your Model Here]</b></td>
+<td>TBD</td>
+<td>?</td>
+<td>?</td>
+</tr>
+</table>
 
 ---
 
-Join the battle and may the best net win! 🚀  
+## 🚀 <span style="color:#9b59b6;">Get Involved</span>  
+1. **Submit Your Model**: Fork the repo and add your architecture.  
+2. **Compete in Challenges**: Test performance under various constraints.  
+3. **Track Progress**: See where your model ranks and improve its efficiency.  
+
+---
+
+
+<span style="color:#ff5733;"> Adonay Demewez Gebremedhin </span>
