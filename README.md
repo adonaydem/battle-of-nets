@@ -5,6 +5,7 @@
 Follow along as we push these architectures to their limits.
 
 We'll just use simple variants of great architectures, those that can be ran on Colab or Kaggle free tier.
+
 ---
 
 ## 🏆 <span style="color:#3498db;">Current Challenges</span>  
