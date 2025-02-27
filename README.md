@@ -2,7 +2,7 @@
 
 **Battle of Nets** is an experimental deep-learning project where models compete in real-world tasks. We evaluate how they handle different challenges under different constraints.
 
-Follow along as we push these architectures to their limits.
+Follow along as we learn and push these architectures to their limits.
 
 
 ---
@@ -101,6 +101,7 @@ With a stronger performance boost, **VGG19** leads as the first official challen
 
 
 <span style="color:#ff5733;"> Adonay Demewez Gebremedhin </span>
+
 Join the battle and may the best net win! 🚀  
 
 ## License  
