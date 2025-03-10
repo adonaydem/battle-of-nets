@@ -2,7 +2,7 @@
 
 **Battle of Nets** is an experimental deep-learning project where models compete in real-world tasks. We evaluate how they handle different challenges under different constraints.
 
-Follow along as we push these architectures to their limits.
+Follow along as we learn and push these architectures to their limits.
 
 
 ---
@@ -15,7 +15,6 @@ Follow along as we push these architectures to their limits.
 <th>Scientific Term</th>
 <th>Start</th>
 <th>End</th>
-<th>Difficulty</th>
 <th>Model Constraints</th>
 <th>Current Leader</th>
 </tr>
@@ -24,7 +23,6 @@ Follow along as we push these architectures to their limits.
 <td>Quantization</td>
 <td>January 1, 2025</td>
 <td>Ongoing</td>
-<td style="color:#e74c3c;">🔥🔥🔥</td>
 <td>Low-bit precision</td>
 <td>VGG19</td>
 </tr>
@@ -33,7 +31,6 @@ Follow along as we push these architectures to their limits.
 <td>Occlusion Test</td>
 <td>TBD</td>
 <td>TBD</td>
-<td style="color:#e67e22;">🔥🔥</td>
 <td>Distorted inputs</td>
 <td>TBD</td>
 </tr>
@@ -42,7 +39,6 @@ Follow along as we push these architectures to their limits.
 <td>Robustness Test</td>
 <td>TBD</td>
 <td>TBD</td>
-<td style="color:#c0392b;">🔥🔥🔥🔥</td>
 <td>Adversarial attacks</td>
 <td>TBD</td>
 </tr>
@@ -101,6 +97,7 @@ With a stronger performance boost, **VGG19** leads as the first challenge winner
 
 
 <span style="color:#ff5733;"> Adonay Demewez Gebremedhin </span>
+
 Join the battle and may the best net win! 🚀  
 
 ## License  
