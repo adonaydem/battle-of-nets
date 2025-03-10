@@ -57,7 +57,7 @@ Follow along as we push these architectures to their limits.
 - **VGG19** retained **99.46%** of its original accuracy while achieving a **2.168x speedup**.  
 - **ResNet20** held **99.74%** accuracy but only improved speed by **1.2768x**.  
 
-With a stronger performance boost, **VGG19** leads as the first official challenge winner in *Battle of Nets*.
+With a stronger performance boost, **VGG19** leads as the first challenge winner in *Battle of Nets*.
 
 ---
 
