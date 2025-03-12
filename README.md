@@ -90,12 +90,12 @@ With a stronger performance boost, **VGG19** leads as the first challenge winner
 
 ## 🚀 <span style="color:#9b59b6;">How to Contribute</span> 
 ### To Submit a Model:
-Fork the Repo – Click Fork and clone it to your local machine.
-Add Your Model – Implement your architecture in the models/ directory.
-Submit a PR – Push your changes and open a pull request for your model or challenge.
+- Fork the Repo – Click Fork and clone it to your local machine.
+- Add Your Model – Implement your architecture in the notebooks/ directory. Optionally add your models in the models/ directory.
+- Submit a PR – Push your changes and open a pull request for your model or challenge.
 
 ### To Create a New Challenge:
-Propose challenges by opening a new issue with challenge details (name, objective, constraints, etc.).
+- Propose challenges by opening a new issue with challenge details (a cool name(required), scientific term, objective, constraints, etc.).
 
 <!-- ### Keep Engaged: 
 Don't forget to test your model, track performance, and contribute to new challenges! -->
