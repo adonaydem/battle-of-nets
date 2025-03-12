@@ -79,7 +79,7 @@ With a stronger performance boost, **VGG19** leads as the first challenge winner
 <td>Residual Power</td>
 </tr>
 <tr>
-<td><b>[Your Model Here]</b></td>
+<td><b>You can contriubute here</b></td>
 <td>TBD</td>
 <td>?</td>
 <td>?</td>
