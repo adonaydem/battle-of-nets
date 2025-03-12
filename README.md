@@ -3,7 +3,7 @@
 **Battle of Nets** is an experimental deep-learning project where models compete in real-world tasks. We evaluate how they handle different challenges under different constraints.
 
 Follow along as we learn and push these architectures to their limits.
-
+![Logo](bn.jpg)
 
 ---
 
