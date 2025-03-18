@@ -4,6 +4,7 @@
 
 Follow along as we learn and push these architectures to their limits.
 
+<img src="bn.jpg" alt="Logo" width="500" height="300">
 
 ---
 
@@ -59,7 +60,7 @@ It's important to note ResNets still dominate in terms of sole speed, but are le
 - **VGG19** retained **99.46%** of its original accuracy while achieving a **2.168x speedup**.  
 - **ResNet20** held **99.74%** accuracy but only improved speed by **1.2768x**.  
 
-With a stronger performance boost, **VGG19** leads as the first challenge winner in *Battle of Nets*.
+With a stronger performance boost, **VGG19** leads as the first challenge winner in *Battle of Nets*. It's crucial to note that ResNet20 still is faster but less affected by quantization.
 
 ---
 
@@ -85,7 +86,7 @@ With a stronger performance boost, **VGG19** leads as the first challenge winner
 <td>Residual Power</td>
 </tr>
 <tr>
-<td><b>[Your Model Here]</b></td>
+<td><b>You can contriubute here</b></td>
 <td>TBD</td>
 <td>?</td>
 <td>?</td>
@@ -94,17 +95,24 @@ With a stronger performance boost, **VGG19** leads as the first challenge winner
 
 ---
 
-## 🚀 <span style="color:#9b59b6;">Get Involved</span>  
-1. **Submit Your Model**: Fork the repo and add your architecture.  
-2. **Compete in Challenges**: Test performance under various constraints.  
-3. **Track Progress**: See where your model ranks and improve its efficiency.  
+## 🚀 <span style="color:#9b59b6;">How to Contribute</span> 
+### To Submit a Model:
+- Fork the Repo – Click Fork and clone it to your local machine.
+- Add Your Model – Implement your architecture in the notebooks/ directory. Optionally add your models in the models/ directory.
+- Submit a PR – Push your changes and open a pull request for your model or challenge.
+
+### To Create a New Challenge:
+- Propose challenges by opening a new issue with challenge details (a cool name(required), scientific term, objective, constraints, etc.).
+
+<!-- ### Keep Engaged: 
+Don't forget to test your model, track performance, and contribute to new challenges! -->
 
 ---
 
 
-<span style="color:#ff5733;"> Adonay Demewez Gebremedhin </span>
+Join the battle and may the best net win! 🚀 
 
-Join the battle and may the best net win! 🚀  
+<span style="color:#ff5733;">Created by Adonay Demewez Gebremedhin </span>
 
 ## License  
 This project is licensed under the Apache License 2.0 - see the [LICENSE](./LICENSE) file for details.
