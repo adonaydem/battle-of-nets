@@ -52,7 +52,8 @@ Follow along as we learn and push these architectures to their limits.
 ### **InceptionNet Joins the Battle**
 ***March 10, 2025***
 
-A version inspired by **InceptionNet** was trained and quantized retaining **99.68%** of its original accuracy while achieving a **2.133x speedup**. VGG19 previously led with a 2.168x speedup and 99.46% accuracy, while ResNet20 held 99.74% accuracy but only improved speed by 1.2768x.With its strong balance between performance and efficiency, InceptionNet positions itself as a serious competitor.
+A version inspired by **InceptionNet** was trained and quantized retaining **99.68%** of its original accuracy while achieving a **2.133x speedup**. VGG19 previously led with a 2.168x speedup and 99.46% accuracy, while ResNet20 held 99.74% accuracy but only improved speed by 1.2768x.
+
 It's important to note ResNets still dominate in terms of sole speed, but are less affected by quantization.
 
 ### **VGG19 vs ResNet20: Quantization Showdown**                    
@@ -80,8 +81,14 @@ With a stronger performance boost, **VGG19** leads as the first challenge winner
 <td>Just simple</td>
 </tr>
 <tr>
+  <td><b>Inception the Versatile</b> - <i>InceptionNet</i></td>
+  <td>10</td>
+  <td>1</td>
+  <td>Multi-scale Thinking</td>
+</tr>
+<tr>
 <td><b>ResNet the Agile</b> - <i>ResNet20</i></td>
-<td>0</td>
+<td>8</td>
 <td>1</td>
 <td>Residual Power</td>
 </tr>
