@@ -30,10 +30,10 @@ Follow along as we learn and push these architectures to their limits.
 <tr>
 <td><b>Puzzle Solver</b></td>
 <td>Occlusion Test</td>
+<td>March 1, 2025</td>
 <td>TBD</td>
-<td>TBD</td>
-<td>Distorted inputs</td>
-<td>TBD</td>
+<td>Obscured inputs</td>
+<td>InceptionNet</td>
 </tr>
 <tr>
 <td><b>Adversarial Battle</b></td>
@@ -49,12 +49,19 @@ Follow along as we learn and push these architectures to their limits.
 
 ## 🔍 <span style="color:#2ecc71;">Latest Results</span>  
 
+### **First Results on Puzzle Solver Challenge**
+***March 19, 2025***
+
+The initial benchmarks for the Puzzle Solver Challenge are in! The first model tested is InceptionNet-inspired architecture.
+Robustness of models was analyzed against altered images using grid-based occlusion techniques.
+
+
 ### **InceptionNet Joins the Battle**
 ***March 10, 2025***
 
-A version inspired by **InceptionNet** was trained and quantized retaining **99.68%** of its original accuracy while achieving a **2.133x speedup**. VGG19 previously led with a 2.168x speedup and 99.46% accuracy, while ResNet20 held 99.74% accuracy but only improved speed by 1.2768x.
+A version inspired by *InceptionNet* was trained and quantized retaining **99.68%** of its original accuracy while achieving a **2.133x** speedup. *VGG19* previously led with a *2.168x* speedup and 99.46% accuracy, while ResNet20 held 99.74% accuracy but only improved speed by 1.2768x.
 
-It's important to note ResNets still dominate in terms of sole speed, but are less affected by quantization.
+It's important to note ResNets still dominate in terms of sole speed, but are less affected by quantization.'
 
 ### **VGG19 vs ResNet20: Quantization Showdown**                    
 ***January 25,2025***
@@ -75,17 +82,18 @@ With a stronger performance boost, **VGG19** leads as the first challenge winner
 <th>Unique Ability</th>
 </tr>
 <tr>
+  <td><b>Inception the Versatile</b> - <i>InceptionNet</i></td>
+  <td>20</td>
+  <td>2</td>
+  <td>Multi-scale Thinking</td>
+</tr>
+<tr>
 <td><b>VGG the Veteran</b> - <i>VGG19</i></td>
 <td>10</td>
 <td>1</td>
 <td>Just simple</td>
 </tr>
-<tr>
-  <td><b>Inception the Versatile</b> - <i>InceptionNet</i></td>
-  <td>10</td>
-  <td>1</td>
-  <td>Multi-scale Thinking</td>
-</tr>
+
 <tr>
 <td><b>ResNet the Agile</b> - <i>ResNet20</i></td>
 <td>8</td>
