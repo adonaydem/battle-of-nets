@@ -57,7 +57,7 @@ Follow along as we learn and push these architectures to their limits.
 ***March 19, 2025***
 
 The benchmarks for the Puzzle Solver Challenge are in! 
-Robustness of models was analyzed against altered images using grid-based occlusion techniques. <a href="notebooks/Speedrun_Quantization/README.md">Description Link</a>
+Robustness of models was analyzed against altered images using grid-based occlusion techniques. <a href="notebooks/PuzzleSolver_Occlusion/README.md">Description Link</a>
 
 
 ### **InceptionNet Joins the Battle**
@@ -86,22 +86,23 @@ With a stronger performance boost, **VGG19** leads as the first challenge winner
 <th>Unique Ability</th>
 </tr>
 <tr>
+<td><b>VGG the Veteran</b> - <i>VGG19</i></td>
+<td>18</td>
+<td>2</td>
+<td>Just simple</td>
+</tr>
+<tr>
   <td><b>Inception the Versatile</b> - <i>InceptionNet</i></td>
   <td>17</td>
   <td>2</td>
   <td>Multi-scale Thinking</td>
 </tr>
-<tr>
-<td><b>VGG the Veteran</b> - <i>VGG19</i></td>
-<td>18</td>
-<td>1</td>
-<td>Just simple</td>
-</tr>
+
 
 <tr>
 <td><b>ResNet the Agile</b> - <i>ResNet20</i></td>
 <td>16</td>
-<td>1</td>
+<td>2</td>
 <td>Residual Power</td>
 </tr>
 <tr>
