@@ -3,8 +3,9 @@
 **Battle of Nets** is an experimental deep-learning project where models compete in real-world tasks. We evaluate how they handle different challenges under different constraints.
 
 Follow along as we learn and push these architectures to their limits.
+<img src="bn.jpg" alt="Logo" width="700" height="500" style="display: block; margin: 0 auto;">
 
-<img src="bn.jpg" alt="Logo" width="500" height="300">
+
 
 ---
 
@@ -18,6 +19,7 @@ Follow along as we learn and push these architectures to their limits.
 <th>End</th>
 <th>Model Constraints</th>
 <th>Current Leader</th>
+<th>Challenge Details</th>
 </tr>
 <tr>
 <td><b>Speedrun Mode</b></td>
@@ -26,14 +28,16 @@ Follow along as we learn and push these architectures to their limits.
 <td>Ongoing</td>
 <td>Low-bit precision</td>
 <td>VGG19</td>
+<td><a href="notebooks/Speedrun_Quantization/README.md">Description Link</a></td>
 </tr>
 <tr>
 <td><b>Puzzle Solver</b></td>
 <td>Occlusion Test</td>
 <td>March 1, 2025</td>
-<td>TBD</td>
+<td>Ongoing</td>
 <td>Obscured inputs</td>
 <td>InceptionNet</td>
+<td><a href="notebooks/PuzzleSolver_Occlusion/README.md">Description Link</a></td>
 </tr>
 <tr>
 <td><b>Adversarial Battle</b></td>
@@ -52,8 +56,8 @@ Follow along as we learn and push these architectures to their limits.
 ### **First Results on Puzzle Solver Challenge**
 ***March 19, 2025***
 
-The initial benchmarks for the Puzzle Solver Challenge are in! The first model tested is InceptionNet-inspired architecture.
-Robustness of models was analyzed against altered images using grid-based occlusion techniques.
+The benchmarks for the Puzzle Solver Challenge are in! 
+Robustness of models was analyzed against altered images using grid-based occlusion techniques. <a href="notebooks/Speedrun_Quantization/README.md">Description Link</a>
 
 
 ### **InceptionNet Joins the Battle**
@@ -83,20 +87,20 @@ With a stronger performance boost, **VGG19** leads as the first challenge winner
 </tr>
 <tr>
   <td><b>Inception the Versatile</b> - <i>InceptionNet</i></td>
-  <td>20</td>
+  <td>17</td>
   <td>2</td>
   <td>Multi-scale Thinking</td>
 </tr>
 <tr>
 <td><b>VGG the Veteran</b> - <i>VGG19</i></td>
-<td>10</td>
+<td>18</td>
 <td>1</td>
 <td>Just simple</td>
 </tr>
 
 <tr>
 <td><b>ResNet the Agile</b> - <i>ResNet20</i></td>
-<td>8</td>
+<td>16</td>
 <td>1</td>
 <td>Residual Power</td>
 </tr>
